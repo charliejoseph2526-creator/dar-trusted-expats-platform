@@ -1,0 +1,6 @@
+{
+  "name": "Dar Trusted Expats Link",
+  "description": "Trusted accommodation and settlement services platform for expatriates and international professionals in Dar es Salaam, Tanzania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-forest: #174B3A;
+    --color-forest-dark: #0f3327;
+    --color-forest-light: #205c48;
+    --color-gold: #C49A45;
+    --color-gold-light: #d6b265;
+    --color-gold-dark: #a97f2e;
+    --color-light-neutral: #F4F5F1;
+  }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: #1e293b;
+    background-color: #F4F5F1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom utility classes */
+.font-heading {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+.font-body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
